@@ -1,0 +1,6 @@
+file: README
+sections:
+- file: Test_Notebook1
+- file: TestDirectory1/Child_Notebook1
+  sections:
+  - file: TestDirectory1/TestDirectory2/Child_Notebook2
